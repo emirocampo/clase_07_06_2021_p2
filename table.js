@@ -71,7 +71,6 @@ function inicio(){
         let nodo = document.createElement("tr")
         nodo.innerHTML = HTMLString
         block.appendChild(nodo)     
-        }
-           
+        }           
     }
 }
